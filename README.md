@@ -1,1 +1,1 @@
-# Inofrmation-Retrieval-Machine-Learning
+# Information-Retrieval-Machine-Learning
